@@ -3,7 +3,7 @@ public void main(String[] args){
 String name="abhishek";
 String clg="IIT ROORKEE";
 System.out.println(name);
-System.out.println(clg);
+System.out.println("yoo");
 }
 
 }
